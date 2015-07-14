@@ -129,7 +129,7 @@ Peer.config = {
   ]
 }
 Peer.constraints = {}
-Peer.channelConfig = {}
+// Peer.channelConfig = {}
 
 Object.defineProperty(Peer.prototype, 'bufferSize', {
   get: function () {
